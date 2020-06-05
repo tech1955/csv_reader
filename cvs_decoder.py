@@ -89,7 +89,7 @@ def print2csv(d):
 
 path = str(os.getcwd()) + "/"
 
-file_name = "TechCrunchcontinentalUSA.csv"
+file_name =  "SalesJan2009.csv"            #"TechCrunchcontinentalUSA.csv"
 
 d = csv2dict(path,file_name)
 
